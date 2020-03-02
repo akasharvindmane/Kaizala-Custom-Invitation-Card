@@ -1,0 +1,22 @@
+{
+	"strEnterTitleForTextQuestion" : "<b>Let your friends suggest a place</b> <br> Type your question below.(optional)",
+	"strEnterTitleForSingleSelectQuestion" : "<b>Ask your friends if they can join</b> <br> Type your question below.",
+	"strAddOptionsForSingleSelectQuestion" : "Add the options",
+	"addmoreOptions" : "Add more options",
+	"strEnterTitleForMultiSelectQuestion" : "<b>Suggest restaurants to your friends</b> <br> Type your question below.",
+	"strAddOptionsForMultiSelectQuestion" : "Add the options",
+	"strSubmitFormLabel" : "SUBMIT FORM",
+	"strSendResponseLabel" : "SEND RESPONSE",
+	"strTapToEnter" : "Tap to enter",
+	"strTapToEnterSingleSelect": "Can you join iftar this week?",
+	"strTapToEnterDateSelect": "Which dates are you available?",
+	"strTapToEnterMultiSelect":"Which restaurant shall we go to?",
+	"strTapToEnterTextQuestion":"Do you have another suggestion for a restaurant?",
+	"strMiniAppTitle" : "Created by <b>kloudynet technologies</b>&copy",
+	"strMiniAppHeaderTimeLabel": "Created by you at {0}",
+	"strEnterTitleForRulesQuestion": "Enter title for <b>Rules</b> question",
+	"strEnterTitleForDateMultiSelectQuestion" : "<b>Give your friends a few dates to choose from</b> <br> Type your question below.",
+	"strAddOptionsForDateMultiSelectQuestion" : "Add the options",
+	"strEnterTitleForNumericQuestion" : "Enter title for <b>numeric</b> question",
+	"strEnterTitleForImageQuestion" : "Enter title for <b>image</b> question"
+}

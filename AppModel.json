@@ -1,0 +1,9 @@
+{
+  "title": "Iftar invitation.",
+  "visibility": "All",
+
+  "isAnonymous": false,
+  "isResponseAppended": false,
+  "isLocationRequested": false,
+  "questions": []
+}
